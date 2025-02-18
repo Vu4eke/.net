@@ -1,3 +1,2 @@
-print("Executer has been injected.")
-
--- TEST AND REMPLACE INJECT!
+print("Selene Rewrite")
+printidentity("identity:")
