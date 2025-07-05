@@ -1,0 +1,130 @@
+{
+    "notifications": [
+        {
+            "Time": "12:00",
+            "Day": "Day",
+            "Type": "Tournament",
+            "Name": "Выучей турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "13:00",
+            "Day": "Day",
+            "Type": "Tournament",
+            "Name": "Выучей турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "14:00",
+            "Day": "Day",
+            "Type": "Tournament",
+            "Name": "Выучей турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "13:00",
+            "Day": "Day",
+            "Type": "Tournament",
+            "Name": "Инстический турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "15:00",
+            "Day": "Day",
+            "Type": "Tournament/Legendary",
+            "Name": "Легендарный турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "19:30",
+            "Day": "Night",
+            "Type": "Tournament/Legendary",
+            "Name": "Легендарный турнир",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "17:30",
+            "Day": "Day",
+            "Type": "Raid",
+            "Name": "Штурм логова",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "12:30",
+            "Day": "Day",
+            "Type": "Siege",
+            "Name": "Сплиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "14:30",
+            "Day": "Day",
+            "Type": "Siege",
+            "Name": "Сплиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "15:30",
+            "Day": "Day",
+            "Type": "Siege",
+            "Name": "Сплиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "20:00",
+            "Day": "Night",
+            "Type": "Siege",
+            "Name": "Сплиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "16:30",
+            "Day": "Day",
+            "Type": "Siege/Legendary",
+            "Name": "Легендарный стлиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "21:30",
+            "Day": "Night",
+            "Type": "Siege/Legendary",
+            "Name": "Легендарный стлиф",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "17:00",
+            "Day": "Day",
+            "Type": "Balkans",
+            "Name": "Балканы",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "10:00",
+            "Day": "Day",
+            "Type": "Outpost",
+            "Name": "Восем форпост",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "12:00",
+            "Day": "Day",
+            "Type": "Outpost",
+            "Name": "Восем форпост",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "16:00",
+            "Day": "Day",
+            "Type": "Outpost",
+            "Name": "Восем форпост",
+            "Server": "Аврелий XX"
+        },
+        {
+            "Time": "19:30",
+            "Day": "Night",
+            "Type": "Outpost",
+            "Name": "Восем форпост",
+            "Server": "Аврелий XX"
+        }
+    ]
+}
